@@ -13,4 +13,4 @@ console.log(`Hello mr ${fullName} your age is ${age}`);
 const a=20;
 const b=30;
 const c=a+b;
-console.log(`sum is :`+c)
+console.log(`sum is :`+c);
